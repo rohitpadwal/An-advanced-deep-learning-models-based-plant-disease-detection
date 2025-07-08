@@ -48,24 +48,20 @@ This project not only demonstrates the power of **AI in agriculture**, but also 
 
 ![image](https://github.com/user-attachments/assets/0943b034-5d48-4828-b654-5f9b7b307e6f)
  Visual Examples of Plant Disease
+ 
 ![image](https://github.com/user-attachments/assets/1b9ea7a8-b867-4097-a02e-2f265d4b2cab)
  Pixel Intensity Distribution
+ 
 ![image](https://github.com/user-attachments/assets/625033e8-f4b9-46df-babb-373eeb7a72c1)
  Model Training Output
+ 
 ![image](https://github.com/user-attachments/assets/89ef435a-c20c-4316-9be2-51141e64e665)
  Plant Disease Detection Example
 
 
 
 
-## 🤝 Contributions
-
-Pull requests and suggestions are welcome! Feel free to fork this repo or open an issue to discuss improvements.
-
----
-
-## 📬 Contact
 
 For questions or collaborations:  
-**Your Name** — [LinkedIn](#) | [Email](mailto:your@email.com) | [Portfolio](#)
+**Rohit Padwal** — [LinkedIn](www.linkedin.com/in/rohit-padwal-479b95331) | [Gmail](rohitpadwal003@gmail.com) 
 
